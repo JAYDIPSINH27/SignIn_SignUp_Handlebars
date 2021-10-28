@@ -28,6 +28,7 @@ I have created Simple SignIn and SignUp page using Handlebars view engine.
 
 
 6.	localhost:3000/logout:
+
  
 ![image](https://user-images.githubusercontent.com/72666169/139308672-8f63d54e-d3ea-4e0b-b85c-863751ee1d9e.png)
 
