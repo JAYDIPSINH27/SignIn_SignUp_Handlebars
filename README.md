@@ -22,7 +22,6 @@ I have created Simple SignIn and SignUp page using Handlebars view engine.
 
 4.	localhost:3000/signin
 
-
 ![image](https://user-images.githubusercontent.com/72666169/139308631-e5b0b113-3882-409c-95e5-c1c24f4da906.png)
 
 ![image](https://user-images.githubusercontent.com/72666169/139308651-13cb0587-ea86-4431-a080-aaab8b16f827.png)
@@ -30,6 +29,6 @@ I have created Simple SignIn and SignUp page using Handlebars view engine.
 
 6.	localhost:3000/logout:
  
- ![image](https://user-images.githubusercontent.com/72666169/139308672-8f63d54e-d3ea-4e0b-b85c-863751ee1d9e.png)
+![image](https://user-images.githubusercontent.com/72666169/139308672-8f63d54e-d3ea-4e0b-b85c-863751ee1d9e.png)
 
 ![image](https://user-images.githubusercontent.com/72666169/139308698-7cb5e1a3-7510-4870-b8ef-c6413288f334.png)
